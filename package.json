@@ -1,0 +1,24 @@
+{
+  "name": "auto-changelog-experiments",
+  "version": "1.0.0",
+  "description": "Testing the changelog generation tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slayerfat/auto-changelog-experiments.git"
+  },
+  "author": "Alejandro Granadillo <slayerfat@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slayerfat/auto-changelog-experiments/issues"
+  },
+  "homepage": "https://github.com/slayerfat/auto-changelog-experiments#readme",
+  "dependencies": {
+    "conventional-changelog-cli": "^1.3.1",
+    "conventional-recommended-bump": "^1.0.0",
+    "json": "^9.0.6"
+  }
+}
