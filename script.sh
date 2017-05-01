@@ -24,5 +24,5 @@ mv -f original.package.json package.json
 echo npm version
 npm version ${BUMP} -m "chore: $VERSION release"
 
-# echo pushing
-# git push --follow-tags
+ echo pushing
+ git push --follow-tags
