@@ -18,5 +18,5 @@ git commit -m "docs: bump to $VERSION"
 echo npm version
 npm version ${BUMP} -m "chore: $VERSION release"
 
-echo pushing
-git push --follow-tags
+# echo pushing
+# git push --follow-tags
