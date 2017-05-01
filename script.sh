@@ -15,7 +15,7 @@ echo altering the CHANGELOG.md
 node_modules/conventional-changelog-cli/cli.js -i CHANGELOG.md -s -p angular
 
 echo commiting
-git add CHANGELOG.md package
+git add CHANGELOG.md
 git commit -m "docs: bump to $VERSION"
 
 echo restoring package.json
