@@ -1,3 +1,18 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/slayerfat/auto-changelog-experiments/compare/v1.1.0...v1.2.0) (2017-05-01)
+
+
+### Bug Fixes
+
+* **script:** remove npm run command from the script ([586e114](https://github.com/slayerfat/auto-changelog-experiments/commit/586e114))
+
+
+### Features
+
+* **cli:** add conventional-github-releaser ([fa67593](https://github.com/slayerfat/auto-changelog-experiments/commit/fa67593))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2017-05-01)
 
